@@ -1,0 +1,19 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "mis cojones en almivar",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev mi_webo",
+    "build": "vitepress build mi_webo"
+  },
+  "keywords": [
+    "puto"
+  ],
+  "author": "Me puedes llamar papa",
+  "license": "La casa de tu abuela",
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.40"
+  }
+}
