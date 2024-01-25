@@ -5,8 +5,8 @@
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vitepress dev mi_webo",
-    "build": "vitepress build mi_webo"
+    "dev": "vitepress dev mi_web",
+    "build": "vitepress build mi_web"
   },
   "keywords": [
     "puto"

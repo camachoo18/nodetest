@@ -1,7 +1,7 @@
 export default{
     lang: 'es-ES',
     title: 'Webos',
-    description: 'Mi webo personal',
+    description: 'Mi web personal',
 
     themeConfig: {
         footer: {
