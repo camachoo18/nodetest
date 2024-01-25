@@ -5,8 +5,8 @@ export default{
 
     themeConfig: {
         footer: {
-            message: 'Mi footer',
-            copyright: 'Eh mio'
+            message: 'Mi web',
+            copyright: 'Camacho Experience'
         },
         nav: [
             {text: 'Inicio', link: '/'},
